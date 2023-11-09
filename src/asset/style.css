@@ -1,0 +1,21 @@
+.landing-page{
+    height: 300px;
+    width: 100%;
+    background-color:lightslategray;
+}
+
+.landing-page-title{
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+
+.content-title{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.list-content{
+    width: 40%;
+    position: center;
+    margin-left: 10px;
+}
